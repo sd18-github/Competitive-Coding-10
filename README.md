@@ -1,3 +1,6 @@
-# Competetive-Coding-10
+# Competitive-Coding-10
 
-Please submit the interview problems posted in slack channel here. The problems and statements are intentionally not shown here so that students are not able to see them in advance 
+## Problem 1: [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+## Problem 2: [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+
